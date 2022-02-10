@@ -53,10 +53,13 @@ from scan.models import Accounts
 Here it's our visualized version of the Ethereum balance. It means that we showed it in several chart types.
 
 ```
+Bar chart
 <img width="1671" alt="Снимок экрана 2022-02-10 в 21 00 47" src="https://user-images.githubusercontent.com/80208323/153436294-37da79a1-18ca-4379-b633-e7228c0eb4be.png">
 
+Line chart
 <img width="1668" alt="Снимок экрана 2022-02-10 в 21 01 12" src="https://user-images.githubusercontent.com/80208323/153436383-9a37f6ad-0a73-4e58-ae77-f38b68152295.png">
 
+Pie chart
 <img width="1673" alt="Снимок экрана 2022-02-10 в 21 01 29" src="https://user-images.githubusercontent.com/80208323/153436400-3d8c5934-51d9-4752-9b64-9d2c72678bce.png">
 
 
